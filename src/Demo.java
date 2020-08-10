@@ -22,6 +22,7 @@ public class Demo {
 		driver.findElement(By.id("divpaxinfo")).click();
 		//driver.findElement(By.xpath("//input[@id='password']")).sendKeys("password");
 		//driver.quit();
+		System.out.println("This is first git commit");
 
 	}
 
